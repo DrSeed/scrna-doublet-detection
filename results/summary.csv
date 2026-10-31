@@ -1,0 +1,4 @@
+class,n,auc_vs_singlets,pct_detected
+heterotypic doublet,96,0.995,90.6
+homotypic doublet,24,0.942,54.2
+singlet,1380,,1.2
